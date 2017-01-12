@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Metis Week 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Week 1 at Metis is up and running. Our group has worked out a somewhat clean MTA Turnstyle dataset to analyze the best stations for street recruitment and mapped income by subway station.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
