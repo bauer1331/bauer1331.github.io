@@ -12,6 +12,3 @@ Our group considered this and took the average into account. However, we took th
 For example, York St. is our number one traffic station for all stations in high income areas. York St. also only has one entry and exit, which means that a smaller number of turnstiles take in all the traffic, where stations usually have multiple entries and exits. Comparing York St. and a station with the exact same total traffic but two entries would have very different averages when taken straight from the turnstile data, where York St. would show higher traffic on average. 
 
 Instead what we needed to do was, first sum the turnstiles together for each station and each date-time four hour period. Only then can we take the average for any particular time of day or the average for any day to understand traffic for a particular station. 
-
-
-
