@@ -13,5 +13,5 @@ For example, York St. is our number one traffic station for all stations in high
 
 Instead what we needed to do was, first sum the turnstiles together for each station and each date-time four hour period. Only then can we take the average for any particular time of day or the average for any day to understand traffic for a particular station. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
 
