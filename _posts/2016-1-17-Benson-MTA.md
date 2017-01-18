@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benson: MTA Subway Traffic Analysis
+title: Benson MTA Subway Traffic Analysis
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
