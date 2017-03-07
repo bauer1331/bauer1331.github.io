@@ -3,7 +3,7 @@ layout: post
 title: Benson, MTA Subway Traffic Analysis
 ---
 
-Week 1 at Metis is up and running. Our group worked out a somewhat clean MTA Turnstile dataset for our first project, Benson. We analyzed and recommended the best stations for street recruitment and mapped income by subway station. Now that we've presented, the results of which can be found [here](https://github.com/bauer1331/Metis_Projects/blob/master/Benson6.pdf), in hindsight the errors we overlooked or did not include are glaring. 
+Week 1 at Metis is up and running. Our group worked out a somewhat clean MTA Turnstile dataset for our first project, Benson. We analyzed and recommended the best stations for street recruitment and mapped income by subway station. Now that we've presented, the results of which can be found [here](https://github.com/bauer1331/Metis_Projects/blob/master/MTA_Traffic_Analysis/Benson6.pdf), in hindsight the errors we overlooked or did not include are glaring. 
 
 We started by looking at the sum of total traffic in a variety of time intervals - date-time, date, and time. We looked by station, we looked at certain stations in high income areas, which gives a good indication of comparable ridership between stations. However, as a client, I would want to know what foot traffic I should expect within a certain four hour window. We could present one week's data and show true sums of each date-time's four hour interval. However, if we wanted to use any more data, such as multiple weeks, we would need to move beyond a sum to know what kind of foot traffic to expect while canvasing on the street at a certain day and time of the week. 
 
