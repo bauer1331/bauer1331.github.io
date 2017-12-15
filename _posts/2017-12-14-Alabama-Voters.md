@@ -8,10 +8,10 @@ title: Alabama Voters -
 |---|---|---|---|---|
 | 1,344,367  | 671,151  | 650,436  | 40%  | [Alabama Secretary of State Unofficial Election Night Resutls](http://www2.alabamavotes.gov/electionNight/statewideResultsByContest.aspx?ecode=1000915)  |
 
-## Overall 2016 Primary Estimates 
+## Overall 2016 Primary Election Results
 | Total Voters  | Democratic Voters  | Republican Voters  | Non-Partisan  | Citation  |
 |---|---|---|---|---|
-| 1,270,321  | 407,169  | 862,284  | 868 | [2016 Primary Election Results - Precinct Level](http://sos.alabama.gov/alabama-votes/voter/election-data)  |
+| 1,270,321  | 407,169  | 862,284  | 868 | [2016 Primary Election Results - Precinct Level, data processing code below](http://sos.alabama.gov/alabama-votes/voter/election-data)  |
 
 ### Race 
 |   | Black Voters  | White Voters | Other Race Voters  | Citation |
