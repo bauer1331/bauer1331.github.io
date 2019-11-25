@@ -7,7 +7,8 @@ Determining what makes a desirable, or likeable picture is still outside of neur
    
  
 ![](../images/Predicting_Instagram_Likes.jpg)   
-[[MORE]]   
+
+  
 ![](../images/Predicting_Instagram_Likes_2.jpg)
 ![](../images/Predicting_Instagram_Likes_3.jpg)
 ![](/images/Predicting_Instagram_Likes_5.jpg)
