@@ -3,10 +3,11 @@ layout: post
 title: Predicting Hostility with the Correlates of War
 ---
 
-Hostility between nations is terrifying. The Correlates of War dataset allows for investigation into some of the predicting features that can indicate when war may erupt. This project aimed to look at time series data to predict when hostility will happen.  
-
+Hostility between nations is terrifying. The Correlates of War dataset allows for investigation into some of the predicting features that can indicate when war may erupt. This project aimed to look at time series data to predict when hostility will happen, with the final slide deck below.  
  
 ![](../images/Correlates of War Presentation.jpg)
+
+
 ![](../images/Correlates of War Presentation_2.jpg)
 ![](../images/Correlates of War Presentation_3.jpg)
 ![](../images/Correlates of War Presentation_4.jpg)
