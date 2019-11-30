@@ -13,7 +13,6 @@ Hostility between nations is terrifying. The Correlates of War dataset allows fo
 ![](../images/Correlates of War Presentation_4.jpg)
 ![](../images/Correlates of War Presentation_5.jpg)
 ![](../images/Correlates of War Presentation_6.jpg)
-![](../images/Correlates of War Presentation_7.jpg)
 ![](../images/Correlates of War Presentation_8.jpg)
 ![](../images/Correlates of War Presentation_9.jpg)
 ![](../images/Correlates of War Presentation_10.jpg)
